@@ -1,0 +1,108 @@
+The query is: The British-Fashion Awards
+The following are the BM25 score for each document:
+Document ID: 741299news, Doc Length: 153 -- BM25 Score: 0.0
+Document ID: 741309news, Doc Length: 83 -- BM25 Score: 0.0
+Document ID: 780718news, Doc Length: 76 -- BM25 Score: 0.0
+Document ID: 780723news, Doc Length: 99 -- BM25 Score: 0.0
+Document ID: 783802news, Doc Length: 97 -- BM25 Score: 2.540039382133043
+Document ID: 783803news, Doc Length: 394 -- BM25 Score: 2.5423588466281455
+Document ID: 79548news, Doc Length: 316 -- BM25 Score: 0.0
+Document ID: 79552news, Doc Length: 52 -- BM25 Score: 0.0
+Document ID: 79565news, Doc Length: 714 -- BM25 Score: 0.0
+Document ID: 80280news, Doc Length: 527 -- BM25 Score: 0.0
+Document ID: 80282news, Doc Length: 106 -- BM25 Score: 0.0
+Document ID: 80283news, Doc Length: 641 -- BM25 Score: 0.0
+Document ID: 807600news, Doc Length: 428 -- BM25 Score: 0.0
+Document ID: 807606news, Doc Length: 147 -- BM25 Score: 0.0
+Document ID: 809481news, Doc Length: 118 -- BM25 Score: 0.0
+Document ID: 809495news, Doc Length: 545 -- BM25 Score: 0.0
+
+The query is: Rocket attacks
+The following are the BM25 score for each document:
+Document ID: 741299news, Doc Length: 153 -- BM25 Score: 0.0
+Document ID: 741309news, Doc Length: 83 -- BM25 Score: 0.0
+Document ID: 780718news, Doc Length: 76 -- BM25 Score: 0.0
+Document ID: 780723news, Doc Length: 99 -- BM25 Score: 0.0
+Document ID: 783802news, Doc Length: 97 -- BM25 Score: 0.0
+Document ID: 783803news, Doc Length: 394 -- BM25 Score: 0.0
+Document ID: 79548news, Doc Length: 316 -- BM25 Score: 0.0
+Document ID: 79552news, Doc Length: 52 -- BM25 Score: 0.0
+Document ID: 79565news, Doc Length: 714 -- BM25 Score: 0.0
+Document ID: 80280news, Doc Length: 527 -- BM25 Score: 0.0
+Document ID: 80282news, Doc Length: 106 -- BM25 Score: 0.0
+Document ID: 80283news, Doc Length: 641 -- BM25 Score: 0.0
+Document ID: 807600news, Doc Length: 428 -- BM25 Score: 0.0
+Document ID: 807606news, Doc Length: 147 -- BM25 Score: 0.0
+Document ID: 809481news, Doc Length: 118 -- BM25 Score: 0.0
+Document ID: 809495news, Doc Length: 545 -- BM25 Score: 6.240171993134475
+
+The query is: Broadcast Fashion Awards
+The following are the BM25 score for each document:
+Document ID: 741299news, Doc Length: 153 -- BM25 Score: 0.0
+Document ID: 741309news, Doc Length: 83 -- BM25 Score: 0.0
+Document ID: 780718news, Doc Length: 76 -- BM25 Score: 0.0
+Document ID: 780723news, Doc Length: 99 -- BM25 Score: 0.0
+Document ID: 783802news, Doc Length: 97 -- BM25 Score: 4.672147563662728
+Document ID: 783803news, Doc Length: 394 -- BM25 Score: 4.6767864926529334
+Document ID: 79548news, Doc Length: 316 -- BM25 Score: 0.0
+Document ID: 79552news, Doc Length: 52 -- BM25 Score: 0.0
+Document ID: 79565news, Doc Length: 714 -- BM25 Score: 0.0
+Document ID: 80280news, Doc Length: 527 -- BM25 Score: 0.0
+Document ID: 80282news, Doc Length: 106 -- BM25 Score: 0.0
+Document ID: 80283news, Doc Length: 641 -- BM25 Score: 2.1347199328015725
+Document ID: 807600news, Doc Length: 428 -- BM25 Score: 0.0
+Document ID: 807606news, Doc Length: 147 -- BM25 Score: 0.0
+Document ID: 809481news, Doc Length: 118 -- BM25 Score: 0.0
+Document ID: 809495news, Doc Length: 545 -- BM25 Score: 0.0
+
+The query is: stock market
+The following are the BM25 score for each document:
+Document ID: 741299news, Doc Length: 153 -- BM25 Score: 0.0
+Document ID: 741309news, Doc Length: 83 -- BM25 Score: 0.0
+Document ID: 780718news, Doc Length: 76 -- BM25 Score: 0.0
+Document ID: 780723news, Doc Length: 99 -- BM25 Score: 1.8038948036220765
+Document ID: 783802news, Doc Length: 97 -- BM25 Score: 0.0
+Document ID: 783803news, Doc Length: 394 -- BM25 Score: 1.8061521766077533
+Document ID: 79548news, Doc Length: 316 -- BM25 Score: 0.0
+Document ID: 79552news, Doc Length: 52 -- BM25 Score: 0.0
+Document ID: 79565news, Doc Length: 714 -- BM25 Score: 3.612984280327397
+Document ID: 80280news, Doc Length: 527 -- BM25 Score: 0.0
+Document ID: 80282news, Doc Length: 106 -- BM25 Score: 0.0
+Document ID: 80283news, Doc Length: 641 -- BM25 Score: 0.0
+Document ID: 807600news, Doc Length: 428 -- BM25 Score: 3.6124248526484855
+Document ID: 807606news, Doc Length: 147 -- BM25 Score: 3.6097572894506604
+Document ID: 809481news, Doc Length: 118 -- BM25 Score: 0.0
+Document ID: 809495news, Doc Length: 545 -- BM25 Score: 0.0
+
+For query 'The British-Fashion Awards', the top-6 possible relevant documents are:
+Document ID: 783803news, Doc Length: 394 -- BM25 Score: 2.5423588466281455
+Document ID: 783802news, Doc Length: 97 -- BM25 Score: 2.540039382133043
+Document ID: 741299news, Doc Length: 153 -- BM25 Score: 0.0
+Document ID: 741309news, Doc Length: 83 -- BM25 Score: 0.0
+Document ID: 780718news, Doc Length: 76 -- BM25 Score: 0.0
+Document ID: 780723news, Doc Length: 99 -- BM25 Score: 0.0
+
+For query 'Rocket attacks', the top-6 possible relevant documents are:
+Document ID: 809495news, Doc Length: 545 -- BM25 Score: 6.240171993134475
+Document ID: 741299news, Doc Length: 153 -- BM25 Score: 0.0
+Document ID: 741309news, Doc Length: 83 -- BM25 Score: 0.0
+Document ID: 780718news, Doc Length: 76 -- BM25 Score: 0.0
+Document ID: 780723news, Doc Length: 99 -- BM25 Score: 0.0
+Document ID: 783802news, Doc Length: 97 -- BM25 Score: 0.0
+
+For query 'Broadcast Fashion Awards', the top-6 possible relevant documents are:
+Document ID: 783803news, Doc Length: 394 -- BM25 Score: 4.6767864926529334
+Document ID: 783802news, Doc Length: 97 -- BM25 Score: 4.672147563662728
+Document ID: 80283news, Doc Length: 641 -- BM25 Score: 2.1347199328015725
+Document ID: 741299news, Doc Length: 153 -- BM25 Score: 0.0
+Document ID: 741309news, Doc Length: 83 -- BM25 Score: 0.0
+Document ID: 780718news, Doc Length: 76 -- BM25 Score: 0.0
+
+For query 'stock market', the top-6 possible relevant documents are:
+Document ID: 79565news, Doc Length: 714 -- BM25 Score: 3.612984280327397
+Document ID: 807600news, Doc Length: 428 -- BM25 Score: 3.6124248526484855
+Document ID: 807606news, Doc Length: 147 -- BM25 Score: 3.6097572894506604
+Document ID: 783803news, Doc Length: 394 -- BM25 Score: 1.8061521766077533
+Document ID: 780723news, Doc Length: 99 -- BM25 Score: 1.8038948036220765
+Document ID: 741299news, Doc Length: 153 -- BM25 Score: 0.0
+
